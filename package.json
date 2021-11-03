@@ -8,8 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "engines": {
-    "npm": "6.14.12",
-    "node": "14.16.1"
+    "npm": "6.14.13",
+    "node": "14.17.3"
   }
   },
   "dependencies": {
